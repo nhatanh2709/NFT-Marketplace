@@ -9,7 +9,7 @@ const imgHero = "https://images.cointelegraph.com/images/1434_aHR0cHM6Ly9zMy5jb2
 const auth =
   'Basic ' +
   Buffer.from(
-    '2Gg95YqQ672apEtGQbewfwGQANc' + ':' + 'b2c85789868e83772bfbc59ddd6d09bb',
+    '5a4fa35e7a6e461694866d91f2347720' + ':' + 'xvUjCzaPjLo497OzwTo5G/BpdBw2t8ALoyvWmpDnSD4AEsrdOphCRQ'
   ).toString('base64')
 
 const client = create({
